@@ -29,7 +29,7 @@ Sadly I cannot batch create these.
 
 How I'm doing it:
 
-Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Samsung Theme Designer 2.0.4 (Out Of Life but still works if you find a setup) -> Export an rename each Animation individually 
+Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Samsung Theme Designer 2.0.4 -> Export and rename each Animation individually 
 -> Copy back to Phone -> Copy to /system/media -> Set permissions to rw-r--r-- -> Reboot and hope it works lol
 
 
