@@ -37,7 +37,7 @@ Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Sams
 
 To-Do:
 - Convert the rest of the Standard Animations
-- Redo everything for some different resolutions -> And fix black bars on shutdown (Minor issue, dont think ill bother fixing it)
+- Redo everything for some different resolutions -> And fix known issue below.
 - Make flashable ZIPs for them, or at least a template. (TWRP Flashable, I know it works, should be easy)
 - Find out if I can include stock animation in the repo for backup/safety purposes. 
 
