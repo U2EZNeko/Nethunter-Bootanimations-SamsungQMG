@@ -23,7 +23,7 @@ So yeah, I googled for days, couldnt find anything so here I am, making a Github
 
 The original files and Images were pulled from the Nethunter Bootanimations tabs.
 Sadly I cannot batch create these. 
-Even worse, I cannot even change resolution easily.
+
 
 
 
@@ -37,5 +37,24 @@ Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Sams
 
 To-Do:
 - Convert the rest of the Standard Animations
-- Redo everything for some different resolutions
+- Redo everything for some different resolutions -> And fix black bars on shutdown (Minor issue, dont think ill bother fixing it)
 - Make flashable ZIPs for them, or at least a template. (TWRP Flashable, I know it works, should be easy)
+- Find out if I can include stock animation in the repo for backup/safety purposes. 
+
+
+Known Issue(s):
+
+- The resolution of the animations provided are all Full HD, 1920x1080, I cannot really change this other than through cropping. May be able to fix this for my own boot animation but definitely not for everyone.
+     > This does not affect the animations other than the shutdown one -> It has 2 "empty" or black bars at the top and bottom because my screen is obviously bigger than FullHD. Boot and Botloop display just fine.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Happy Hacking! 
+			and fuck you Samsung!
+
+
+
+
+
+
