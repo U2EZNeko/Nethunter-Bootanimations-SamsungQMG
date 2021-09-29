@@ -45,7 +45,7 @@ To-Do:
 Known Issue(s):
 
 - The resolution of the animations provided are all Full HD, 1920x1080, I cannot really change this other than through cropping. May be able to fix this for my own boot animation but definitely not for everyone.
-     > This does not affect the animations other than the shutdown one -> It has 2 "empty" or black bars at the top and bottom because my screen is obviously bigger than FullHD. Boot and Botloop display just fine.
+     > This does not affect the animations other than the shutdown one and then ONLY animations with a non-black background -> It has 2 "empty" or black bars at the top and bottom because my screen is obviously bigger than FullHD. Boot and Botloop display just fine.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
