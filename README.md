@@ -40,10 +40,16 @@ Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Sams
 
 
 To-Do:
-- Convert the rest of the Standard Animations
-- Redo everything for some different resolutions -> And fix known issue below.
 - Make flashable ZIPs for them, or at least a template. (TWRP Flashable, I know it works, should be easy)
-- Find out if I can include stock animation in the repo for backup/safety purposes. 
+
+Done:
+x Find out if I can include stock animation in the repo for backup/safety purposes. - Done, dont care if its copyrighted, I'll take it down if I have to.
+x Convert the rest of the Standard Animations - All done except that burning one, I dont think anyone over 12 uses one as edgy as this lols
+
+Most likely can't/won't fix:
+x Redo everything for some different resolutions -> Check "Known issues" below.
+
+
 
 
 Known Issue(s):
@@ -54,8 +60,7 @@ Known Issue(s):
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-Happy Hacking! 
-			and fuck you Samsung!
+Happy Hacking and fuck you Samsung!
 
 
 
