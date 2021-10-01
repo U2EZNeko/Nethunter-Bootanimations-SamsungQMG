@@ -54,15 +54,19 @@ To-Do:
 - Make flashable ZIPs for them, or at least a template. (TWRP Flashable, I know it works, should be easy)
 - More custom animations. 
 
+
+
 Done:
 x Find out if I can include stock animation in the repo for backup/safety purposes. - Done, dont care if its copyrighted, I'll take it down if I have to.
 x Convert the rest of the Standard Animations - All done except that burning one, I dont think anyone over 12 uses one as edgy as that. lols
+
+
 
 Most likely can't/won't fix:
 x Redo everything for some different resolutions -> Check "Known issues" below.
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 Known Issue(s):
 
