@@ -9,22 +9,19 @@ However Samsung is a bunch of whiny special boys and killed off the project and 
 
 Now you have to use their web-designer but you cannot do that unless you get approved by Samsung as a theme-dev.... Or you are an enterprise customer, who for some reason have a simple as shit to use program for it.
 
-
-
-
-
 So yeah, I googled for days, couldnt find anything so here I am, making a Github repo for it myself. 
 
-
-
-
-
-
-
-
-
-The original files and Images were pulled from the Nethunter Bootanimations tabs.
+The original files and Images were pulled from the Nethunter Bootanimations tabs and other open source sites (apart from the original files obviously)
 Sadly I cannot batch create these. 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+File Information:
+
+bootsamsung.qmg - The first bootanimation that plays after the Samsung logo (pretty sure that's too deep down to edit too)
+bootsamsungloop.qmg - This file plays after bootsamsung.qmg and has to be a perfect loop, it will play until the boot is actually finished.
+shutdown.qmg - Plays on shutdown as the name suggests. I do not know how fast phones actually shut off but it seems that the lenght of the animation doesn't matter.
+
 ----------------------------------------------------------------------------------------------------------------------------------
 Content:
 
@@ -71,7 +68,7 @@ x Redo everything for some different resolutions -> Check "Known issues" below.
 Known Issue(s):
 
 - The resolution of the animations provided are all Full HD, 1920x1080, I cannot really change this other than through cropping. May be able to fix this for my own boot animation but definitely not for everyone.
-     > This does not affect the animations other than the shutdown one and then ONLY animations with a non-black background -> It has 2 "empty" or black bars at the top and bottom because my screen is obviously bigger than FullHD. Boot and Botloop display just fine.
+     > This does not affect the animations other than the shutdown one and then ONLY animations with a non-black background -> It has 2 "empty" or black bars at the top and bottom because my screen is obviously bigger than FullHD. Boot and Bootloop animations display just fine.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
