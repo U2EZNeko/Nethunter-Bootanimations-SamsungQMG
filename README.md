@@ -57,8 +57,8 @@ To-Do:
 
 
 Done:
-x Find out if I can include stock animation in the repo for backup/safety purposes. - Done, dont care if its copyrighted, I'll take it down if I have to.
-x Convert the rest of the Standard Animations - All done except that burning one, I dont think anyone over 12 uses one as edgy as that. lols
+- Find out if I can include stock animation in the repo for backup/safety purposes. - Done, dont care if its copyrighted, I'll take it down if I have to.
+- Convert the rest of the Standard Animations - All done except that burning one, I dont think anyone over 12 uses one as edgy as that. lols
 
 
 
