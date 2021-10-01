@@ -58,7 +58,7 @@ Done:
 
 
 Most likely can't/won't fix:
-x Redo everything for some different resolutions -> Check "Known issues" below.
+- Redo everything for some different resolutions -> Check "Known issues" below.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
