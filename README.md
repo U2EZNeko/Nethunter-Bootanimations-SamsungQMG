@@ -25,6 +25,17 @@ So yeah, I googled for days, couldnt find anything so here I am, making a Github
 
 The original files and Images were pulled from the Nethunter Bootanimations tabs.
 Sadly I cannot batch create these. 
+----------------------------------------------------------------------------------------------------------------------------------
+Content:
+
+     - Nethunter Classic 
+     - Nethunter Glitch
+     - Nethunter New Kali
+     - Nethunter ctOS
+     - Nethunter Classic+ctOS combo (ctOS shutdown, looks better than the NH one imo)
+     - Easteregg Handcrafted because I was bored
+     - Samsung Original Boot Animation
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -41,10 +52,11 @@ Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Sams
 
 To-Do:
 - Make flashable ZIPs for them, or at least a template. (TWRP Flashable, I know it works, should be easy)
+- More custom animations. 
 
 Done:
 x Find out if I can include stock animation in the repo for backup/safety purposes. - Done, dont care if its copyrighted, I'll take it down if I have to.
-x Convert the rest of the Standard Animations - All done except that burning one, I dont think anyone over 12 uses one as edgy as this lols
+x Convert the rest of the Standard Animations - All done except that burning one, I dont think anyone over 12 uses one as edgy as that. lols
 
 Most likely can't/won't fix:
 x Redo everything for some different resolutions -> Check "Known issues" below.
