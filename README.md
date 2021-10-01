@@ -11,8 +11,10 @@ Now you have to use their web-designer but you cannot do that unless you get app
 
 So yeah, I googled for days, couldnt find anything so here I am, making a Github repo for it myself. 
 
-The original files and Images were pulled from the Nethunter Bootanimations tabs and other open source sites (apart from the original files obviously)
-Sadly I cannot batch create these. 
+The original files and Images were pulled from the Nethunter Bootanimations tabs and other open source sites. (apart from the original files obviously)
+
+
+Sadly I cannot batch create these but hey, the manual work paid off. :)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
