@@ -18,13 +18,14 @@ Sadly I cannot batch create these.
 
 File Information:
 
-     bootsamsung.qmg - The first bootanimation that plays after the Samsung logo (pretty sure that's too deep down to edit too)
+- bootsamsung.qmg - The first bootanimation that plays after the Samsung logo (pretty sure that's too deep down to edit too)
 
-     bootsamsungloop.qmg - This file plays after bootsamsung.qmg and has to be a perfect loop, it will play until the boot is actually finished.
+- bootsamsungloop.qmg - This file plays after bootsamsung.qmg and has to be a perfect loop, it will play until the boot is actually finished.
 
-     shutdown.qmg - Plays on shutdown as the name suggests.
+- shutdown.qmg - Plays on shutdown as the name suggests.
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
 Content:
 
      - Nethunter Classic 
@@ -35,19 +36,14 @@ Content:
      - Easteregg Handcrafted because I was bored
      - Samsung Original Boot Animation
 
-
-
 ----------------------------------------------------------------------------------------------------------------------------------
-
 
 How I'm doing it:
 
 Create bootanimation ZIP in Nethunter App -> Copy to PC -> Shove it through Samsung Theme Designer 2.0.4 -> Export and rename each Animation individually 
 -> Copy back to Phone -> Copy to /system/media -> Set permissions to rw-r--r-- -> Reboot and hope it works lol
 
-
 ----------------------------------------------------------------------------------------------------------------------------------
-
 
 To-Do:
 - Make flashable ZIPs for them, or at least a template. (TWRP Flashable, I know it works, should be easy)
@@ -64,7 +60,6 @@ Done:
 Most likely can't/won't fix:
 x Redo everything for some different resolutions -> Check "Known issues" below.
 
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Known Issue(s):
@@ -73,7 +68,6 @@ Known Issue(s):
      > This does not affect the animations other than the shutdown one and then ONLY animations with a non-black background -> It has 2 "empty" or black bars at the top and bottom because my screen is obviously bigger than FullHD. Boot and Bootloop animations display just fine.
 
 ----------------------------------------------------------------------------------------------------------------------------------
-
 
 Happy Hacking and fuck you Samsung!
 
