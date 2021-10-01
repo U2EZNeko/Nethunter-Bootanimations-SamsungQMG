@@ -18,9 +18,11 @@ Sadly I cannot batch create these.
 
 File Information:
 
-bootsamsung.qmg - The first bootanimation that plays after the Samsung logo (pretty sure that's too deep down to edit too)
-bootsamsungloop.qmg - This file plays after bootsamsung.qmg and has to be a perfect loop, it will play until the boot is actually finished.
-shutdown.qmg - Plays on shutdown as the name suggests. I do not know how fast phones actually shut off but it seems that the lenght of the animation doesn't matter.
+     bootsamsung.qmg - The first bootanimation that plays after the Samsung logo (pretty sure that's too deep down to edit too)
+
+     bootsamsungloop.qmg - This file plays after bootsamsung.qmg and has to be a perfect loop, it will play until the boot is actually finished.
+
+     shutdown.qmg - Plays on shutdown as the name suggests. I do not know how fast phones actually shut off but it seems that the lenght of the animation doesn't matter.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Content:
