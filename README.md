@@ -42,7 +42,7 @@ Content:
 
 How I'm doing it:
 
-Create bootanimation ZIP in Nethunter App 
+-> Create bootanimation ZIP in Nethunter App 
 -> Copy to PC 
 -> Shove it through Samsung Theme Designer 2.0.4 
 -> Export and rename each Animation individually 
@@ -59,6 +59,7 @@ Create bootanimation ZIP in Nethunter App
 -> Copy to /system/media 
 -> Set permissions to rw-r--r-- 
 -> Reboot and hope it works lol
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 To-Do:
